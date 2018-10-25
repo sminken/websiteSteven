@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.3.1",
-      "C:\\Users\\Steven Minken\\Documents\\websiteSteven"
+      "C:\\Users\\Steven Minken\\Documents\\websiteSteven\\public"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.3.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.3.1.tgz",
   "_spec": "5.3.1",
-  "_where": "C:\\Users\\Steven Minken\\Documents\\websiteSteven",
+  "_where": "C:\\Users\\Steven Minken\\Documents\\websiteSteven\\public",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
