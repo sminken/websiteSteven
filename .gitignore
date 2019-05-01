@@ -1,7 +1,7 @@
 node_modules
 
-**/js/main.js
-**/functions
-**/database.rules.json
-**/firebase.json
-**/firebaserc
+main.js
+functions
+database.rules.json
+firebase.json
+firebaserc
