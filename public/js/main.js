@@ -1,4 +1,16 @@
+// Initialize Firebase
+var config = {
+  apiKey: "AIzaSyD6z7tY74ZceOYjRBzzn0JuM4ERJ9cy-fk",
+  authDomain: "websitesteven-702e8.firebaseapp.com",
+  databaseURL: "https://websitesteven-702e8.firebaseio.com",
+  projectId: "websitesteven-702e8",
+  storageBucket: "websitesteven-702e8.appspot.com",
+  messagingSenderId: "685295209737"
+};
+firebase.initializeApp(config);
 
+// Referenced firebase database
+var berichtenRef = firebase.database().ref('berichten');
 
 // Listen for form submit
 document.getElementById('contactFormulier').addEventListener('submit', submitForm);

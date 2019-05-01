@@ -4,3 +4,4 @@ node_modules
 **/functions
 **/database.rules.json
 **/firebase.json
+**/firebaserc
