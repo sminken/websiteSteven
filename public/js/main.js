@@ -14,7 +14,6 @@ var berichtenRef = firebase.database().ref('berichten');
 
 // Listen for form submit
 document.getElementById('contactFormulier').addEventListener('submit', submitForm);
-xxxx
 // Submit form
 function submitForm(e){
   e.preventDefault();
