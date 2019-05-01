@@ -4,4 +4,4 @@ main.js
 functions
 database.rules.json
 firebase.json
-firebaserc
+.firebaserc
