@@ -159,6 +159,15 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+.alert {
+  text-align: center;
+  padding: 10px;
+  background: #79c879;
+  color: #fff;
+  margin-bottom: 10px;
+  display: none;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
